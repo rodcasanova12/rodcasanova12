@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rodcasanova12
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning computer science at Kean University.
+- 🌱 I've graduated from Kean University.
 - 💞️ I’m looking to collaborate on software development
 - 📫 How to reach me rodrigocasanova12@gmail.com
 
